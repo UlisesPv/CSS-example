@@ -4,7 +4,7 @@ body {
 }
 
 .grid-wrapper {
-  width: 100%;
+  width: 70%;
   height: 420px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
